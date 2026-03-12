@@ -1,0 +1,10 @@
+{
+  "name": "bdnm-vercel",
+  "version": "1.0.0",
+  "description": "BD-NewsMap — Vercel frontend + API proxy",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {}
+}
